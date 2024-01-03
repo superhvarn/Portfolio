@@ -1,0 +1,5 @@
+{
+    "require": {
+        "happyr/linkedin-api-client": "^0.6.3"
+    }
+}
